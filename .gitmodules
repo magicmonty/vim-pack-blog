@@ -1,0 +1,21 @@
+[submodule "start/emmet-vim"]
+	path = start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "start/liquid.vim"]
+	path = start/liquid.vim
+	url = https://github.com/vim-scripts/liquid.vim.git
+[submodule "start/liquidfold.vim"]
+	path = start/liquidfold.vim
+	url = https://github.com/vim-scripts/liquidfold.vim.git
+[submodule "start/scss-syntax.vim"]
+	path = start/scss-syntax.vim
+	url = https://github.com/cakebaker/scss-syntax.vim.git
+[submodule "start/vim-jekyll"]
+	path = start/vim-jekyll
+	url = https://github.com/parkr/vim-jekyll.git
+[submodule "start/vim-markdown"]
+	path = start/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "start/vim-markdown-folding"]
+	path = start/vim-markdown-folding
+	url = https://github.com/nelstrom/vim-markdown-folding.git
