@@ -1,21 +1,28 @@
 [submodule "start/emmet-vim"]
 	path = start/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
+  ignore = dirty
 [submodule "start/liquid.vim"]
 	path = start/liquid.vim
 	url = https://github.com/vim-scripts/liquid.vim.git
+  ignore = dirty
 [submodule "start/liquidfold.vim"]
 	path = start/liquidfold.vim
 	url = https://github.com/vim-scripts/liquidfold.vim.git
+  ignore = dirty
 [submodule "start/scss-syntax.vim"]
 	path = start/scss-syntax.vim
 	url = https://github.com/cakebaker/scss-syntax.vim.git
+  ignore = dirty
 [submodule "start/vim-jekyll"]
 	path = start/vim-jekyll
 	url = https://github.com/parkr/vim-jekyll.git
+  ignore = dirty
 [submodule "start/vim-markdown"]
 	path = start/vim-markdown
 	url = https://github.com/tpope/vim-markdown.git
+  ignore = dirty
 [submodule "start/vim-markdown-folding"]
 	path = start/vim-markdown-folding
 	url = https://github.com/nelstrom/vim-markdown-folding.git
+  ignore = dirty
