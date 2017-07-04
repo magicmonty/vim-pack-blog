@@ -29,3 +29,4 @@
 [submodule "start/vCoolor.vim"]
 	path = start/vCoolor.vim
 	url = https://github.com/KabbAmine/vCoolor.vim.git
+  ignore = dirty
